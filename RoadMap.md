@@ -27,7 +27,6 @@ gantt
     Enemy: 01-08-2023, 7d
     Player's Movement: 01-08-2023, 7d
     Enemy's Movement: 01-08-2023, 7d
-    Boss: 15-08-2023, 7d
 
 
     section Bullet
@@ -47,9 +46,6 @@ gantt
 
     section UIs
     Weapons: 10-08-2023, 7d
-    Potions: 10-08-2023, 7d
-    POVs: 04-08-2023, 7d
-    Difficulty: 20-08-2023, 7d
     Shooting: 15-08-2023, 7d
     Jump: 04-08-2023, 7d
 
